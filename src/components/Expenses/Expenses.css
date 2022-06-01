@@ -1,0 +1,16 @@
+.expenses {
+    padding: 1rem;
+    /* background-color: white; */
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border: 2px solid;
+    border-color: #90E0EF;
+  }
+
+  @media (max-width: 500px) {
+    .expenses {
+      border: 0px;
+      margin-top: 85px;
+    }
+  }
